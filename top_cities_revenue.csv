@@ -1,0 +1,1001 @@
+customer_city,Total_orders
+"sao paulo",908
+"rio de janeiro",395
+"belo horizonte",170
+brasilia,108
+"porto alegre",79
+curitiba,74
+campinas,73
+guarulhos,63
+salvador,62
+niteroi,55
+"sao jose dos campos",44
+osasco,44
+"santo andre",43
+fortaleza,41
+"sao bernardo do campo",40
+santos,39
+goiania,37
+"ribeirao preto",36
+sorocaba,35
+florianopolis,34
+jundiai,33
+recife,32
+contagem,28
+vitoria,28
+piracicaba,26
+"vila velha",25
+uberlandia,25
+"campo grande",24
+"sao goncalo",23
+"sao luis",23
+londrina,23
+"juiz de fora",22
+maringa,22
+carapicuiba,22
+joinville,21
+"praia grande",21
+barueri,20
+"mogi das cruzes",20
+petropolis,19
+"campos dos goytacazes",19
+"nova iguacu",19
+belem,18
+macae,17
+"taboao da serra",16
+ipatinga,16
+"sao jose do rio preto",16
+limeira,15
+teresina,15
+serra,15
+marilia,15
+"feira de santana",14
+guaruja,14
+valinhos,14
+indaiatuba,14
+maua,14
+franca,13
+pelotas,13
+cuiaba,13
+"ferraz de vasconcelos",13
+araraquara,13
+"volta redonda",13
+betim,13
+americana,13
+"pouso alegre",13
+taubate,12
+sumare,12
+"sao vicente",12
+diadema,12
+"sao carlos",12
+bauru,11
+"santa maria",11
+"caxias do sul",11
+cotia,11
+blumenau,10
+resende,10
+cascavel,10
+"franco da rocha",10
+"sao roque",10
+"joao pessoa",10
+canoas,10
+"jaboatao dos guararapes",10
+"sao caetano do sul",10
+maceio,10
+"ribeirao pires",9
+suzano,9
+gravatai,9
+cariacica,9
+aracaju,9
+divinopolis,9
+hortolandia,9
+uberaba,9
+"duque de caxias",9
+natal,9
+"santana de parnaiba",9
+cajamar,9
+marica,9
+"nova friburgo",9
+"cachoeiro de itapemirim",8
+"rio grande",8
+jacarei,8
+manaus,8
+"pocos de caldas",8
+botucatu,8
+"rio claro",8
+mage,8
+itajuba,8
+"sao jose",8
+atibaia,8
+aracatuba,8
+"pato branco",8
+vicosa,8
+"embu das artes",8
+teresopolis,8
+"novo hamburgo",8
+"montes claros",7
+mogi-guacu,7
+itauna,7
+araras,7
+salto,7
+jatai,7
+"aparecida de goiania",7
+itabira,7
+itajai,7
+itaquaquecetuba,7
+pindamonhangaba,7
+itapetininga,7
+uba,7
+"francisco morato",7
+catanduva,7
+vinhedo,7
+barbacena,7
+palhoca,7
+"braganca paulista",7
+votorantim,7
+paulinia,7
+"passo fundo",7
+"ponta grossa",7
+avare,7
+"belford roxo",6
+"cabo frio",6
+itanhaem,6
+"sao jose dos pinhais",6
+cacapava,6
+itapevi,6
+caieiras,6
+cubatao,6
+sinop,6
+"jaragua do sul",6
+paranavai,6
+"barra mansa",6
+araruama,6
+manhuacu,6
+"rio das ostras",6
+"rio branco",6
+"angra dos reis",6
+toledo,6
+jandira,6
+itumbiara,6
+"governador valadares",6
+matao,6
+mairipora,6
+pinhais,6
+"ouro preto",5
+castanhal,5
+"foz do iguacu",5
+itatiba,5
+"vitoria da conquista",5
+"balneario camboriu",5
+lages,5
+barretos,5
+bage,5
+mococa,5
+saquarema,5
+videira,5
+pedreira,5
+"santa barbara d'oeste",5
+"nova lima",5
+cruzeiro,5
+paranagua,5
+camboriu,5
+anapolis,5
+batatais,5
+"sao joao da boa vista",5
+"conselheiro lafaiete",5
+ourinhos,5
+macapa,5
+ubatuba,5
+brusque,5
+palmas,5
+xanxere,5
+"sete lagoas",5
+paulista,5
+tatui,5
+"teofilo otoni",5
+"boa esperanca",4
+indaial,4
+"cachoeira do sul",4
+altamira,4
+gaspar,4
+varginha,4
+guarapuava,4
+sobral,4
+"campo largo",4
+itaguai,4
+barrinha,4
+"almirante tamandare",4
+santarem,4
+"sao joaquim da barra",4
+chapeco,4
+votuporanga,4
+muriae,4
+"campos do jordao",4
+petrolina,4
+itapetinga,4
+arapongas,4
+jau,4
+paracatu,4
+arapiraca,4
+"boa vista",4
+juazeiro,4
+guaratingueta,4
+mongagua,4
+"ribeirao das neves",4
+"porto velho",4
+amparo,4
+"presidente prudente",4
+unai,4
+jaboticabal,4
+ananindeua,4
+"mogi mirim",4
+"patos de minas",4
+louveira,4
+lavras,4
+capelinha,3
+"sapucaia do sul",3
+serrinha,3
+guanambi,3
+"pedro leopoldo",3
+"coronel fabriciano",3
+camaragibe,3
+congonhas,3
+"juazeiro do norte",3
+mineiros,3
+criciuma,3
+capivari,3
+camacari,3
+"sao sebastiao",3
+orlandia,3
+viamao,3
+"santa cruz do sul",3
+jequie,3
+adamantina,3
+itabirito,3
+"teixeira de freitas",3
+"santa cruz do rio pardo",3
+"limoeiro do norte",3
+navegantes,3
+osorio,3
+queimados,3
+quirinopolis,3
+"presidente epitacio",3
+santiago,3
+"francisco beltrao",3
+"cachoeira paulista",3
+nilopolis,3
+araxa,3
+"artur nogueira",3
+"santa luzia",3
+itapolis,3
+farroupilha,3
+italva,3
+"santa barbara",3
+"santa rita do sapucai",3
+pirassununga,3
+"ponte nova",3
+"barra do garcas",3
+pitangui,3
+botelhos,3
+"tres coracoes",3
+"sao jose do rio pardo",3
+guarapari,3
+valenca,3
+"sao mateus",3
+aperibe,3
+limoeiro,3
+"rio do sul",3
+"sao pedro da aldeia",3
+tubarao,3
+"lagoa santa",3
+porangatu,3
+piracaia,3
+penapolis,3
+"campo belo",3
+parnamirim,3
+concordia,3
+ibiruba,3
+poa,3
+seropedica,3
+tambau,3
+olinda,3
+guararapes,3
+imbituba,3
+caxias,3
+lajeado,3
+"presidente venceslau",3
+itaborai,3
+"sao leopoldo",3
+caraguatatuba,3
+pompeia,3
+ibipora,3
+ilhabela,3
+itapira,3
+uruguaiana,3
+"aguas de lindoia",3
+sertaozinho,3
+itaperuna,3
+eunapolis,3
+dourados,3
+"aguas lindas de goias",3
+fernandopolis,3
+escada,3
+"tres lagoas",3
+"quatro barras",3
+tupa,3
+"varzea paulista",3
+"itapecerica da serra",3
+itanhandu,3
+colombo,3
+imperatriz,3
+igarassu,3
+claudio,3
+"rio negro",3
+lorena,3
+socorro,3
+"campo bom",3
+"barra do pirai",3
+"espirito santo do pinhal",3
+tiete,3
+"sao joao de meriti",3
+"cruz alta",3
+ibirite,3
+candeias,3
+paracambi,3
+"cruz das almas",2
+januaria,2
+"arroio do sal",2
+cerquilho,2
+guacui,2
+embu-guacu,2
+guariba,2
+itacare,2
+ituverava,2
+ariquemes,2
+curitibanos,2
+balsas,2
+"lucas do rio verde",2
+"porto seguro",2
+"porto feliz",2
+tijucas,2
+buritizeiro,2
+corumba,2
+"sao sebastiao do paraiso",2
+irati,2
+"senhor do bonfim",2
+birigui,2
+"lencois paulista",2
+"santa ines",2
+"sao jose da coroa grande",2
+rubiataba,2
+"vargem grande paulista",2
+"alto paraiso de goias",2
+cajuru,2
+umuarama,2
+lucelia,2
+"bonfim paulista",2
+"nova venecia",2
+"entre rios",2
+buenopolis,2
+miracema,2
+"santo antonio de jesus",2
+"correia pinto",2
+"monte santo de minas",2
+iturama,2
+floresta,2
+caruaru,2
+"para de minas",2
+dracena,2
+icem,2
+juina,2
+faxinal,2
+coromandel,2
+cosmopolis,2
+forquilhinha,2
+almenara,2
+"cornelio procopio",2
+linhares,2
+marau,2
+aluminio,2
+cordeiro,2
+"salto de pirapora",2
+ipameri,2
+maracaju,2
+xaxim,2
+"novo horizonte",2
+carmo,2
+abaetetuba,2
+janauba,2
+"monte aprazivel",2
+bebedouro,2
+"carlos barbosa",2
+barreiras,2
+trindade,2
+itarare,2
+vassouras,2
+"paraiba do sul",2
+"engenheiro coelho",2
+garca,2
+curvelo,2
+catalao,2
+itatiaia,2
+sorriso,2
+descalvado,2
+alagoinhas,2
+cataguases,2
+"santo antonio de padua",2
+frutal,2
+feliz,2
+guapore,2
+"rio brilhante",2
+"nova serrana",2
+nanuque,2
+"sao joao del rei",2
+piumhii,2
+"bom despacho",2
+ijui,2
+lajinha,2
+taruma,2
+olimpia,2
+martinopolis,2
+"campina grande",2
+"cachoeiras de macacu",2
+"santa rita do passa quatro",2
+itu,2
+"santo antonio das missoes",2
+cianorte,2
+boituva,2
+itupeva,2
+jaguariuna,2
+extrema,2
+lins,2
+itapema,2
+esmeraldas,2
+lagarto,2
+palestina,2
+"tangara da serra",2
+malacacheta,2
+caete,2
+"conceicao do araguaia",2
+brumadinho,2
+"capao bonito",2
+registro,2
+maraba,2
+nepomuceno,2
+"santa gertrudes",2
+crateus,2
+araguaina,2
+"cesario lange",2
+rolandia,2
+hidrolandia,2
+"nossa senhora do socorro",2
+itai,2
+"fazenda rio grande",2
+itapiranga,2
+"espera feliz",2
+palmital,2
+uruana,2
+barcarena,2
+"tres rios",2
+mesquita,2
+leme,2
+"lauro de freitas",2
+prados,2
+assis,2
+maracanau,2
+portao,2
+"barra do tarrachil",2
+biguacu,2
+"pires do rio",2
+junqueiropolis,2
+"rio grande da serra",2
+"rio paranaiba",2
+"caldas novas",2
+cunha,2
+mafra,2
+itapeva,2
+pacaembu,2
+guaxupe,2
+"varzea grande",2
+vespasiano,2
+itabera,2
+"osvaldo cruz",2
+tanabi,2
+ouricuri,2
+"sao gabriel",2
+andorinha,2
+encantado,2
+sarzedo,2
+patrocinio,2
+sapiranga,2
+sabara,2
+"monte siao",2
+"mato verde",2
+vilhena,2
+itabaiana,2
+astorga,2
+tangua,2
+guaira,2
+goias,2
+colatina,2
+caucaia,2
+"faxinal dos guedes",2
+andradina,2
+"sao goncalo do rio preto",2
+machado,2
+esteio,2
+"pilao arcado",2
+cantagalo,2
+auriflama,2
+capitolio,2
+vianopolis,1
+tocos,1
+"baixo guandu",1
+"campos borges",1
+"sao jose da tapera",1
+"santa rosa de viterbo",1
+picos,1
+"monte mor",1
+"rio do antonio",1
+senges,1
+ibitinga,1
+"mario campos",1
+"treze tilias",1
+"carmo do rio claro",1
+urucuca,1
+arcos,1
+prata,1
+icara,1
+"venda nova do imigrante",1
+ribeirao,1
+"sao francisco do sul",1
+tabatinga,1
+una,1
+pariquera-acu,1
+paraopeba,1
+chacara,1
+cipo-guacu,1
+cortes,1
+"sao vendelino",1
+"terra boa",1
+"rosario do sul",1
+silvianopolis,1
+"santa isabel",1
+cuite,1
+firminopolis,1
+"ipiranga do norte",1
+capanema,1
+apuiares,1
+"santa rita do araguaia",1
+valente,1
+mirandopolis,1
+pederneiras,1
+"tres marias",1
+"sao joao do manhuacu",1
+"sao francisco do guapore",1
+marialva,1
+regeneracao,1
+gravata,1
+"formoso do araguaia",1
+itabuna,1
+"chapada do norte",1
+"valparaiso de goias",1
+"felipe guerra",1
+joanopolis,1
+"formosa da serra negra",1
+"santa clara do sul",1
+"monte castelo",1
+formosa,1
+"comendador levy gasparian",1
+carai,1
+timbo,1
+"frederico westphalen",1
+"trajano de moraes",1
+"afonso claudio",1
+cambe,1
+"coelho neto",1
+candiota,1
+guaranta,1
+castro,1
+vacaria,1
+"santo augusto",1
+anicuns,1
+"santa maria da vitoria",1
+igarata,1
+ivora,1
+charqueada,1
+"sao miguel do oeste",1
+"rio formoso",1
+fraiburgo,1
+perdizes,1
+queluz,1
+bonfinopolis,1
+"lavras da mangabeira",1
+barauna,1
+pontal,1
+rodeio,1
+petrolandia,1
+"palmeira dos indios",1
+forquilha,1
+bicas,1
+"joao monlevade",1
+urussanga,1
+alegre,1
+itamarandiba,1
+itajobi,1
+palma,1
+itaberaba,1
+"armacao dos buzios",1
+"santa fe do sul",1
+"pontal do parana",1
+bananeiras,1
+"saudade do iguacu",1
+glaura,1
+itapecerica,1
+"sao sepe",1
+"porto uniao",1
+"coronel joao sa",1
+gaurama,1
+guaracai,1
+"desembargador otoni",1
+"sao joao da urtiga",1
+"dom eliseu",1
+"nova monte verde",1
+"campo novo do parecis",1
+cacador,1
+soledade,1
+araruna,1
+itapaci,1
+querencia,1
+"bom principio",1
+chavantes,1
+"terra roxa",1
+"sao miguel do aleixo",1
+"boa esperanca do sul",1
+aguai,1
+guaiuba,1
+"aparecida do taboado",1
+aracruz,1
+juvenilia,1
+"tres de maio",1
+"astolfo dutra",1
+"itau de minas",1
+"bento goncalves",1
+canela,1
+fernao,1
+tarabai,1
+rafard,1
+juquitiba,1
+"nova xavantina",1
+"porto esperidiao",1
+"cruzeiro do sul",1
+caravelas,1
+"primavera do leste",1
+"bom jesus do querendo",1
+"rio novo do sul",1
+aruana,1
+"santa adelia",1
+japeri,1
+"monte carmelo",1
+itabaianinha,1
+"nova bassano",1
+"tres pontas",1
+loanda,1
+"buriti dos lopes",1
+"alta floresta",1
+alcinopolis,1
+"mata verde",1
+urutai,1
+"nova prata do iguacu",1
+ibatiba,1
+"santa rosa de lima",1
+ibiraci,1
+anaurilandia,1
+espumoso,1
+lagoinha,1
+"sao jorge do ivai",1
+araguari,1
+"espigao do oeste",1
+paiva,1
+paragominas,1
+pitangueiras,1
+minacu,1
+cedral,1
+pradopolis,1
+ibiam,1
+"iguaba grande",1
+liberdade,1
+"poco verde",1
+eugenopolis,1
+"cerqueira cesar",1
+"ze doca",1
+arraias,1
+muritiba,1
+"campo mourao",1
+ituiutaba,1
+"dores do indaia",1
+"sao bento do sul",1
+saudades,1
+camanducaia,1
+formoso,1
+marinopolis,1
+andradas,1
+"bom jardim de minas",1
+"sao miguel arcanjo",1
+"pimenta bueno",1
+"rondon do para",1
+guaranesia,1
+"catu de abrantes",1
+borborema,1
+acreuna,1
+"sao geraldo",1
+nuporanga,1
+aracoiaba,1
+"assis chateaubriand",1
+garibaldi,1
+pancas,1
+iracemapolis,1
+"sao joao d'alianca",1
+jales,1
+iacu,1
+bayeux,1
+quitandinha,1
+chui,1
+piritiba,1
+"sao mateus do sul",1
+paranaiba,1
+paracuru,1
+rancharia,1
+matipo,1
+aurora,1
+jacui,1
+"capela de santana",1
+guapo,1
+"otacilio costa",1
+"cicero dantas",1
+igarapava,1
+dumont,1
+parnaiba,1
+coroata,1
+panelas,1
+passos,1
+"vargem alta",1
+sombrio,1
+"cabeceira grande",1
+ulianopolis,1
+guapimirim,1
+luiziania,1
+"arroio grande",1
+"currais novos",1
+"santa salete",1
+"nova independencia",1
+arace,1
+"senador firmino",1
+peruibe,1
+missal,1
+"engenheiro paulo de frontin",1
+saltinho,1
+"americo brasiliense",1
+luziania,1
+canapolis,1
+coxim,1
+sanharo,1
+"conceicao do para",1
+"lindolfo collor",1
+umburatiba,1
+pirajui,1
+pirapora,1
+"santana do araguaia",1
+garopaba,1
+porecatu,1
+"bom jesus do araguaia",1
+"bom jardim",1
+palmeiras,1
+salesopolis,1
+"dois vizinhos",1
+"novo oriente",1
+"sao raimundo nonato",1
+"paula candido",1
+"santa cecilia",1
+"palmeira das missoes",1
+camapua,1
+"divinopolis de goias",1
+promissao,1
+"nova cantu",1
+itamari,1
+"matias barbosa",1
+"prudente de morais",1
+codo,1
+apore,1
+"colonia vitoria",1
+mendes,1
+"agua boa",1
+erechim,1
+"conceicao da barra",1
+diamantina,1
+igarape,1
+"arraial d'ajuda",1
+parauapebas,1
+cacule,1
+ilheus,1
+"conselheiro pena",1
+araujos,1
+tupassi,1
+"mateus leme",1
+mozarlandia,1
+analandia,1
+"campo alegre",1
+bariri,1
+"belo oriente",1
+"nova granada",1
+canarana,1
+candelaria,1
+humaita,1
+cachoeirinha,1
+itororo,1
+"santo cristo",1
+"madre de deus",1
+mamanguape,1
+"santa terezinha",1
+triunfo,1
+mostardas,1
+witmarsum,1
+paranaita,1
+"diamante d'oeste",1
+"visconde do rio branco",1
+"serra negra",1
+caririacu,1
+"alto parana",1
+"sao jose de mipibu",1
+"santana do serido",1
+itabela,1
+mossoro,1
+caceres,1
+cajazeiras,1
+desterro,1
+roseira,1
+"santa maria madalena",1
+"dom silverio",1
+"ielmo marinho",1
+taquarituba,1
+carazinho,1
+laguna,1
+ibate,1
+"santo antonio do monte",1
+formiga,1
+paraguacu,1
+"domiciano ribeiro",1
+russas,1
+gramado,1
+"porto ferreira",1
+"angelo frechiani",1
+"sao jose da barra",1
+utinga,1
+"bonito de santa fe",1
+"sao miguel do gostoso",1
+sumidouro,1
+piuma,1
+"lavras do sul",1
+viana,1
+ibiuna,1
+"telemaco borba",1
+"sao joao",1
+caratinga,1
+araripina,1
+uruoca,1
+itaporanga,1
+arrozal,1
+"sao jose do calcado",1
+"sao felix do xingu",1
+jeremoabo,1
+"bom jesus do galho",1
+"deputado irapuan pinheiro",1
+itaqui,1
+ibirama,1
+"reserva do cabacal",1
+"mata de sao joao",1
+ceara-mirim,1
+sapucai-mirim,1
+"varzea da palma",1
+"rio verde",1
+"guaranta do norte",1
+arapoema,1
+"santana do paraiso",1
+sananduva,1
+itaipava,1
+virginopolis,1
+medina,1
+itambe,1
+"raul soares",1
+cristais,1
+turmalina,1
+"laranjeiras do sul",1
+paraiso,1
+parati,1
+"macuco de minas",1
+jeceaba,1
+"santo antonio do jacinto",1
+coribe,1
+"taquaritinga do norte",1
+marmeleiro,1
+"estancia velha",1
+"nova esperanca",1
+aparecida,1
+taiuva,1
+indianopolis,1
+"nova londrina",1
+"rio pardo de minas",1
+parana,1
+bocaiuva,1
+jacutinga,1
+cacu,1
+remanso,1
+iguatu,1
+"ceu azul",1
+"barra do bugres",1
+tucurui,1
+"barra velha",1
+"humberto de campos",1
+fortuna,1
+camamu,1
+"campo ere",1
+machacalis,1
+varre-sai,1
+itubera,1
+orizona,1
+salmourao,1
+pojuca,1
+pacajus,1
+"domingos martins",1
+cambara,1
+jaci,1
+"soledade de minas",1
+"balneario pinhal",1
+"terra nova do norte",1
+"canaa dos carajas",1
+cassia,1
+aruja,1
+fartura,1
+"campo limpo paulista",1
+piranguinho,1
+goianira,1
+orindiuva,1
+"antonio prado",1
+catende,1
+"pereira barreto",1
+cristina,1
+girua,1
+curiuva,1
+"nova andradina",1
+"serra dos aimores",1
+itapipoca,1
+"eldorado do sul",1
+aracariguama,1
+"vila nova",1
+"mimoso de goias",1
+igrejinha,1
+timon,1
+"piedade de caratinga",1
+arvorezinha,1
+arceburgo,1
+marituba,1
+"pato bragado",1
+"augusto pestana",1
+"sao lourenco",1
+"rio novo",1
+piedade,1
+"lindoia do sul",1
+"miguel pereira",1
+planalto,1
+simonesia,1
+caninde,1
+"colonia leopoldina",1
+guimaraes,1
+itamonte,1
+"santo antonio do jardim",1
+barras,1
+"sitio novo do tocantins",1
+"bom jesus do itabapoana",1
+"sacra familia do tingua",1
+"quedas do iguacu",1
+"rio pardo",1
